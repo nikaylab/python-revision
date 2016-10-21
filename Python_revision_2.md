@@ -1,4 +1,4 @@
-# Python Revision :dragon_face
+# Python Revision :dragon_face:
 ## Strings
 1. Ask user for an 8 letter word 
     * and print only the 5th letter
