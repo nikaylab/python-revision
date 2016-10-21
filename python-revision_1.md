@@ -1,4 +1,4 @@
-# Python Revision
+# Python Revision 1
 ## Mathematical operations  
 / + - % // %
 1. calculate the hypotenuse of a right angle triangle with sides 6 and 7 cm
