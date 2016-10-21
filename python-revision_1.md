@@ -25,3 +25,4 @@ get you and why?
   *******
  *********
 ```
+![geek joke](http://i.imgur.com/KGrV41o.png)
