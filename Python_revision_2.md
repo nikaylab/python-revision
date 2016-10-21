@@ -14,4 +14,4 @@
     * print out the number of times they are repeated
 3. Replace all the vowels in a sentence with asterisks
 
-Format:![Smile](http://www.kdnuggets.com/images/cartoon-deep-learning-2nd-place-coffeemaker.jpg)
+![Smile](http://www.kdnuggets.com/images/cartoon-deep-learning-2nd-place-coffeemaker.jpg)
